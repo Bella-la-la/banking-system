@@ -1,0 +1,6 @@
+account=632527356
+name=Jolie Choi
+id=66666666
+type=current
+pin=1234
+balance=49994.85

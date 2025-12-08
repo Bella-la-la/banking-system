@@ -1,0 +1,6 @@
+account=461210346
+name=Joe Luk
+id=44444444
+type=savings
+pin=1234
+balance=50000.00

@@ -1,0 +1,6 @@
+account=3939377
+name=Lily Chan
+id=55555555
+type=savings
+pin=1234
+balance=5.00
